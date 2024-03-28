@@ -14,6 +14,8 @@ hond2=Hond("Bonnie" , 6)
 hond3=Hond("Biko" , 13)
 
 #dit is top!
+#nog wat toegevoegd
+
 
 hond1.blaf()
 hond2.blaf()
